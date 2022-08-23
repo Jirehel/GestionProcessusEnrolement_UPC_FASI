@@ -1,0 +1,19 @@
+{
+  "name": "Swift University",
+  "version": "1.0.4",
+  "description": "Swift University Admin Dashboard",
+  "main": "js/admin.js",
+  "authors": [
+    "Theme Makker"
+  ],
+  "license": "",
+  "homepage": "",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
